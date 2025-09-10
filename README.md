@@ -8,7 +8,7 @@ visualizes both individual trials and overall trends.
 
 <img width="850" height="678" alt="trial_12" src="https://github.com/user-attachments/assets/628b8448-ab32-40eb-b184-7100ae91f019" />
 
-<img width="1484" height="883" alt="critical_points_graph" src="https://github.com/user-attachments/assets/5e7b1665-64cf-430c-a347-08492616aa9d" />
+<img width="1635" height="1033" alt="summary" src="https://github.com/user-attachments/assets/1017dc58-6d69-431b-99c8-ede0e0837eda" />
 
 
 ## Requirments

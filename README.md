@@ -11,7 +11,7 @@ visualizes both individual trials and overall trends.
 <img width="1635" height="1033" alt="summary" src="https://github.com/user-attachments/assets/1017dc58-6d69-431b-99c8-ede0e0837eda" />
 
 
-## Requirments
+## Requirements
 - Python 3.9+
 - matplotlib
 - numpy
